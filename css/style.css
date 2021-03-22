@@ -66,6 +66,11 @@ body {
   height: 80%;
 }
 
+.side__information a {
+  text-decoration: none;
+  color: #424243;
+}
+
 .side__contact {
   margin-bottom: 30px;
 }
@@ -112,6 +117,11 @@ body {
   background-image: url(../img/сайт@288x.png);
   background-repeat: no-repeat;
   background-size: contain;
+}
+
+.side__site a {
+  text-decoration: none;
+  color: #424243;
 }
 
 .side__follow {
